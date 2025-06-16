@@ -48,6 +48,7 @@ This is a simple command-line game where:
 - [GitHub Repository] https://github.com/Kareemtamer159/Rock-Paper-Play
 - [My GitHub Profile] https://github.com/Kareemtamer159
 - [LinkedIn Profile] https://www.linkedin.com/in/kareem-tamer-481894290/
+- [LinkedIn Post] https://www.linkedin.com/posts/kareem-tamer-481894290_100daysofcode-python-100daysofcode-activity-7340511965380829184-s4Cv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEacFqEB1P7lGySMmgPABsDuiym37UgGrWY
 
 ## 🤝 Contributing
 Feel free to fork this project and submit pull requests for any improvements!
